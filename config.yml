@@ -74,13 +74,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "The open source spectroscopy project: advanced measurements and modern analysis methods made quick and simple."
-    Content: Hi! Welcome to my page. I believe ‘specialist' optical techniques, such as pump probe spectroscopy and spectroelectrochemistry are widely inaccessible due to idiosyncratic design and implementation rather than inherent complexity. This means that researchers with great new materials or amazing ideas are often forced to use more rudimentary measurments, producing data which is incompatible with modern analysis techniques.
-    
-     Here you will find everything you will need to build an operando time or potential resolved spectroscopy whith software for running and anlysis that should work straght out of the box with no modifcation!
+    Content: Hi! Welcome to my page. I believe ‘specialist’ optical techniques, such as pump probe spectroscopy and spectroelectrochemistry are widely inaccessible due to idiosyncratic design and implementation rather than inherent complexity. This means that researchers with great new materials or amazing ideas are often forced to use more rudimentary measurements, producing data which is incompatible with modern analysis techniques. Here you will find everything you will need to build an operando time or potential resolved spectroscopy with software for running and analysis that should work straight out of the box with no modification!
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Benjamin_S_Moss"
   #  - name: stackoverflow
    #   url: "https://stackoverflow.com"
     - name: github
