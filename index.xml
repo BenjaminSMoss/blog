@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Open Source Spectroscopy Project</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Open Source Spectroscopy Project</description>
+    <image>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/aboutme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Operando spectroscopy labVIEW code</title>
+      <link>http://example.org/sec_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sec_code/</guid>
+      <description>On this page you can find a link to the operando spectroscopy code. In the near futrure you will also be able to find a manual for how to operate the code - it should be reasonably straghtforward after installing the drivers and sub VIs for IVIUM/Andor/ocean. A future manual will cover these but in the mean time please contact me if you have any problems or questions! Note on 2022/08/2: The code will be simplified for easier reading and duplicate dependences will be removed in the near future!</description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>http://example.org/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/hardware/</guid>
+      <description>On this page you will find a build schematic for time and potential resolved multimodal spectroelectrochemistry. I built this system to operate in the UV-visible region to study electrocatalysts but feel free to vary from this template and modify the code as you see fit! You will find a list of parts compatible (and rough pricing) with the LabVIEW operating software I use to run the instrument. Currently, the system is compatible with oxford instruments detectors and IVIUM potentiostats but compatibility with Biologic is a priority in the near future!</description>
+    </item>
+    
+    <item>
+      <title>Legacy TA/PIA code</title>
+      <link>http://example.org/tas_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tas_code/</guid>
+      <description>Here you can find a link to legacy TA/PIA code as well as an instruction manual explaining how to operate it and how to modify it - note becuase this design is more complex I no longer fully support it.
+https://github.com/BenjaminSMoss/TA_PIA_software/tree/main/Optical%20Software%20Code%20V2.2.0.0</description>
+    </item>
+    
+    <item>
+      <title>Open source hardware schematics for operando spectroscopy</title>
+      <link>http://example.org/sec_schematic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sec_schematic/</guid>
+      <description>Below you will find a link to document describing the most recent instrument design I have used. This will periodically update and be added to as I build new instruments and improve/simplify old ones. These designs seek to balance resolution with ease of use and simplicity. A reflectance schematic will be added in the near future.
+title: &amp;ldquo;Open source hardware schematics for operando spectroscopy&amp;rdquo;
+https://github.com/BenjaminSMoss/Hardware-Schematics/blob/main/OSSP-Schematic1-V1.docx</description>
+    </item>
+    
+    <item>
+      <title>Open source hardware schematics for TAS/PIA (Legacy)</title>
+      <link>http://example.org/tas_schematic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tas_schematic/</guid>
+      <description>Below you will find a link to a a rough outline of the key components compatible with the Durrant group TAS/PIA code I developed in conjuntion with Austin Connsultants. Please note this is rough as I am now focusing on simpler instrument designs for time resolved spectroscopy.
+https://github.com/BenjaminSMoss/Hardware-Schematics/blob/main/Legacy%20TA.docx</description>
+    </item>
+    
+    <item>
+      <title>SEC analysis scripts</title>
+      <link>http://example.org/analysis_scripts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/analysis_scripts/</guid>
+      <description>Please find a link below to the most recent analysis scripts - they are commented but a clean up and full explaination is a priority in the near future! In the meantime please contact me if you have any questions. Credit for developing these scripts also must go to Caiwu Liang and Reshma R Rao.
+https://github.com/BenjaminSMoss/SEC_TEAM_Analysis_scripts</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://example.org/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/software/</guid>
+      <description>On this page you can find links to the most recent version of the operando potential and time resolved spectroscopy software compatible with the hardware lists. All the code is written in labVIEW so ideally you will need a labVIEW licence to run it. If you would like a .exe file I may be able to provide this but I cannot guarantee compatibility with your system or troubleshoot any issues. I have found that keeping the code in labview is a the best compromise to ensure compatibility!</description>
+    </item>
+    
+    <item>
+      <title>The open source spectropscopy project: advanced  measurments and modern analysis made quick and simple.</title>
+      <link>http://example.org/aboutproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/aboutproject/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
